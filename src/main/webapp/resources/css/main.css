@@ -39,7 +39,7 @@ header #head_link ul {
 	list-style: none;
 }
 header #head_link li {
-	padding: 0px 8px; border-right-color: rgb(153, 153, 153); border-right-width: 1px; border-right-style: solid; float: left; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+	padding: 0px 8px; border-right-color: rgb(153, 153, 153); border-right-width: 1px; border-right-style: solid; float: left; 
 }
 #head_link .no_line {
 	border-right-color: currentColor; border-right-width: medium; border-right-style: none;

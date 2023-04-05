@@ -43,14 +43,14 @@
 </c:when>
 <c:otherwise>
 	<li>
-		<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;국내외 도서</h3>
+		<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카테고리</h3>
 		<ul>
-			<li><a href="${contextPath}/goods/goodsList.do">IT/인터넷</a></li>
-			<li><a href="#">경제/경영</a></li>
-			<li><a href="#">대학교재</a></li>
-			<li><a href="#">자기계발</a></li>
-			<li><a href="#">자연과학/공학</a></li>
-			<li><a href="#">역사/인문학</a></li>
+			<li><a href="${contextPath}/goods/goodsList.do">CPU</a></li>
+			<li><a href="#">메인보드</a></li>
+			<li><a href="#">RAM</a></li>
+			<li><a href="#">그래픽카드</a></li>
+			<li><a href="#">저장장치</a></li>
+			<li><a href="#">파워서플라이</a></li>
 		</ul>
 	</li>
 	<li>
